@@ -1,1 +1,2 @@
 Python is known for being easy to learn and for its versatility in handling various data structures like lists and dictionaries.
+Python is a programming language that's easy to learn and use, making it popular among beginners.
