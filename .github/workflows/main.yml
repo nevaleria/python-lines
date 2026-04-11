@@ -1,4 +1,4 @@
-name: one line code
+name: one line fact
 
 on:
   schedule:
@@ -45,7 +45,7 @@ jobs:
           RAW_SENTENCE=$(curl -s http://localhost:11434/api/generate \
             -d '{
               "model": "qwen3:0.6b",
-              "prompt": "Generate exactly one line Python code that doesn't use quotes at all. Output ONLY the code, no line breaks, no quotes, no explanations.",
+              "prompt": "Generate exactly one sentence of a fun fact about Python programming language. Output ONLY the sentence, no line breaks, no quotes, no explanations.",
               "stream": false
             }' | jq -r '.response' 2>/dev/null)
           
@@ -77,7 +77,7 @@ jobs:
           fi
           
           # Append to log file
-          echo "$SENTENCE" >> main.py
+          echo "$SENTENCE" >> facts.txt
 
           # Git identity
           git config --global user.name "${{ github.repository_owner }}"
