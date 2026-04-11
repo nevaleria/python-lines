@@ -1,0 +1,1 @@
+Python is known for being easy to learn and for its versatility in handling various data structures like lists and dictionaries.
