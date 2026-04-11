@@ -45,7 +45,7 @@ jobs:
           RAW_SENTENCE=$(curl -s http://localhost:11434/api/generate \
             -d '{
               "model": "qwen3:0.6b",
-              "prompt": "Generate exactly one line Python code. Output ONLY the code, no line breaks, no quotes, no explanations.",
+              "prompt": "Generate exactly one line Python code that doesn't use quotes at all. Output ONLY the code, no line breaks, no quotes, no explanations.",
               "stream": false
             }' | jq -r '.response' 2>/dev/null)
           
