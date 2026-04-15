@@ -3,3 +3,4 @@ Python is a programming language that's easy to learn and use, making it popular
 Python uses underscores to denote variables, a fun fact.
 Python is used in everyday life because of its versatility.
 Python is easy to learn because it uses simple syntax.
+Python uses the same symbols as English.
