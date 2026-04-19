@@ -7,3 +7,4 @@ Python uses the same symbols as English.
 Python is easy to learn, making it popular among beginners.
 Python is easy to learn, making it popular among beginners.
 Python's syntax is a mix of English and code, making it easy to read.
+Python is easy to learn and read, making it popular among beginners.
