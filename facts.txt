@@ -16,3 +16,4 @@ Python is known for being easy to learn, making it a popular choice for beginner
 Python is known for its readability.
 Python is a versatile programming language that's easy to learn.
 Python is a versatile language that's easy to read and write, making it a favorite among developers.
+Python's syntax is designed to be readable and easy to read, making it a favorite among programmers.
