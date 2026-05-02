@@ -20,3 +20,4 @@ Python's syntax is designed to be readable and easy to read, making it a favorit
 Python is easy to learn because it uses indentation.
 Python is a language that's easy to learn, making it popular among beginners.
 Python is a language that's used in all fields, making it a popular choice.
+Python's syntax is like a lisp, making it a favorite among developers.
