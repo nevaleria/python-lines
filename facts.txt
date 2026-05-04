@@ -22,3 +22,4 @@ Python is a language that's easy to learn, making it popular among beginners.
 Python is a language that's used in all fields, making it a popular choice.
 Python's syntax is like a lisp, making it a favorite among developers.
 Python is easy to learn and widely used.
+Python is known for being easy to learn.
